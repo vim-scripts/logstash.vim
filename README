@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5001
+
+logstash.vim highlights configuration files for logstash, a tool for managing events and logs (see http://logstash.net)
+
+This script also includes custom filetype detection for logstash files, since they end with a generic extension. For it to take effect automatically, your configuration file must end with ".conf" and the first line must look like "input {".
